@@ -171,66 +171,13 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <picture> <img src = "https://github.com/DarshilThakkar/DarshilThakkar/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DarshilThakkar&theme=tokyonight_duo" alt="DarshilThakkar" /></p>
-
-</details>
   
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
-----
-	
-<p align="center">
-    <a href="https://github.com/rajatjoe/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajatjoe&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatjoe&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="rajatjoe" height="230px"/>
-<br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![DarshilThakkar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rajatjoe&theme=github	)](https://github.com/rajatjoe/github-readme-activity-graph)
-
- 
-</details>
-
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatjoe&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="rajatjoe" /></a> </p>
 
 	
-</details>
-	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
-----
-	
-<div>
-  <p align="center">
-	<a href="https://github.com/rajatjoe/AlgOS">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=DarshilThakkar&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/rajatjoe/post-it">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=DarshilThakkar&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/rajatjoe/WebWhisper">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=DarshilThakkar&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
-	</a>
-  </p>
-</div>
-</details>
 
 </br></br>
 	
